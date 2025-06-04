@@ -1,6 +1,6 @@
 require "formula"
 
-VERSION = '0.1.0'
+VERSION = '0.2.0'
 class TailwindcssPalette < Formula
   desc "Generate Tailwind CSS color palettes from a base hex color"
   homepage "https://github.com/claytonchew/tailwindcss-palette-go"
